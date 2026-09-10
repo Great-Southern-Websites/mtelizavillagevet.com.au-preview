@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://www.mtelizavillagevet.com.au/sitemap.xml
+Disallow: /
